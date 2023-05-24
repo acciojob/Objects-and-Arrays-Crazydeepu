@@ -10,6 +10,10 @@ var team = players;
 var team1 = players;
 var cap1 = person;
 
+team();
+team1();
+cap1();
+
 window.players = players;
 window.person = person;
 window.team = team;
