@@ -1,6 +1,6 @@
-const players = ["John", "Bob", "Alice", "Poppy"];
+let players = ["John", "Bob", "Alice", "Poppy"];
 
-const person = {
+let person = {
   name: "John Doe",
   age: 80,
 };
